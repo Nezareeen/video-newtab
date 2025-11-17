@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Video New Tab Background",
+  "version": "1.0",
+  "description": "Custom New Tab with video background",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
+}
